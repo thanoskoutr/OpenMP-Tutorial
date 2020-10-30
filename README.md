@@ -15,3 +15,9 @@ make
 ```
 Currently it is only tested on Linux environment.
 
+# Resources
+The tutorial is "Introduction to OpenMP" by Tim Mattson and can be found in the OpenMP's site, 
+under [Resources/Tutorials & Articles](https://www.openmp.org/resources/tutorials-articles/) 
+allong with other OpenMP tutorials.
+
+All the exercise files can be found in his [repository](https://github.com/tgmattso/OpenMP_intro_tutorial).
